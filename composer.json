@@ -1,0 +1,16 @@
+{
+    "name": "jakehu/Redis-Case-and-Queue-Example",
+    "description": "Redis增删改查以及队列示例",
+    "keywords": ["Redis", "Queue", "Example"],
+    "homepage": "https://github.com/jakehu/Redis-Case-and-Queue-Example",
+    "type": "project",
+    "license": "Apache-2.0",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3.2",
+        "predis/predis": ">=1.0.3"
+    },
+     "config": {
+        "vendor-dir": "Predis"
+    }
+}
